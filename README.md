@@ -2,8 +2,11 @@ Happy Cure
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Happy Cure is android application healthy care like disease detection,and disease prediction.
+
 Developed by Tech Futuristic team.
+
 Developed date: 19 March 2022.
+
 [Visit and download](https://github.com/AnandaRauf/Happy-Cure/tree/project)
 
 Tech Futuristic team:
@@ -18,5 +21,6 @@ How to use:
 - Download extension dart on Visual Studio.
 - For simple using, create account on Flutlab Io: [Create account Flutlab](https://www.flutlab.io)
 - Import file zip on website Flutlab Io.
-
+- Click flutter pub get on command line Flutlab.
+- typing flutter pub get on terminal Visual Studio Code.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
