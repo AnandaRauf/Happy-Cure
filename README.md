@@ -9,6 +9,7 @@ Developed date: 19 March 2022.
 
 [Visit and download](https://github.com/AnandaRauf/Happy-Cure/tree/project)
 [Download APK](https://github.com/AnandaRauf/Happy-Cure/releases/tag/1.0.0)
+![Logo](https://raw.githubusercontent.com/AnandaRauf/Happy-Cure/main/logo%20happy%20cure.png)
 
 Tech Futuristic team:
 - Ananda Rauf Maududi(Leader).
