@@ -18,8 +18,7 @@ Developed date: 19 March 2022.
 Tech Futuristic team:
 - Ananda Rauf Maududi(Leader).
 - Hars Sharma.
-- Mouna Anneddame.
-- Arunima Chatterjee.
+
 
 How to use:
 - Download flutter SDK: [Download Flutter SDK](https://www.flutter.dev)
