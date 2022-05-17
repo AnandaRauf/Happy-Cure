@@ -3,9 +3,7 @@ Happy Cure
 
 Happy Cure is android application healthy care like disease detection,and disease prediction.
 
-Developed by Tech Futuristic team.
-
-Developed date: 19 March 2022.
+Developed by Frozer Tech team.
 
 [Visit and download](https://github.com/AnandaRauf/Happy-Cure/tree/project)
 
@@ -15,9 +13,8 @@ Developed date: 19 March 2022.
 
 ![Logo](https://raw.githubusercontent.com/AnandaRauf/Happy-Cure/main/logo%20happy%20cure.png)
 
-Tech Futuristic team:
+Frozer Techteam:
 - Ananda Rauf Maududi(Leader).
-- Hars Sharma.
 
 
 How to use:
