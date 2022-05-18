@@ -18,11 +18,9 @@ Frozer Techteam:
 
 
 How to use:
-- Download flutter SDK: [Download Flutter SDK](https://www.flutter.dev)
-- Download VSCode: [Download Visual Studio Code](https://code.visualstudio.com/download)
-- Download extension dart on Visual Studio.
-- For simple using, create account on Flutlab Io: [Create account Flutlab](https://www.flutlab.io)
-- Import file zip on website Flutlab Io.
-- Click flutter pub get on command line Flutlab.
-- typing flutter pub get on terminal Visual Studio Code.
+- Min android versi Nougat, max Android 12.
+- Download file apk.
+- Choose the Happy Cure application that suits your mobile system architecture : android-arm or android-arm64.
+- Check your mobile system architecture by using CPU-Z download at App Store or Google Play Store.
+- Enjoy your time ^-^.  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
