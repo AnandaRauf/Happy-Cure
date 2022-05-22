@@ -5,7 +5,7 @@ Happy Cure is android application healthy care like disease detection,and diseas
 
 Developed by Frozer Tech team.
 
-[Download APK](https://github.com/AnandaRauf/Happy-Cure/releases/tag/)
+[Download APK](https://github.com/AnandaRauf/Happy-Cure/releases/)
 
 
 ![Logo](https://raw.githubusercontent.com/AnandaRauf/Happy-Cure/main/logo%20happy%20cure.png)
